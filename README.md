@@ -11,5 +11,5 @@ This application does nothing useful, it's used for target practice.
 * cat `server.pid`
 
 **Finally kill the process & remove the server.pid file**
-* kill `cat server.pid`
+* kill `"process id"`
 * rm `server.pid`
